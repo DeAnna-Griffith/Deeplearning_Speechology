@@ -1,1 +1,1 @@
-# Deeplearning_Speechology
+# Speechology
